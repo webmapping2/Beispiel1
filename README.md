@@ -3,7 +3,6 @@
 ## Warum wir git verwenden
 
 * Teamfähig
-* backup
 * zurück zu einer vorigen Version
 
 ## Bilder und Links
